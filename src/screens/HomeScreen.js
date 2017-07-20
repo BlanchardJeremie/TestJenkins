@@ -68,7 +68,7 @@ export default class HomeScreen extends Component {
         <View style={styles.margin}>
           <Button
             onPress={this.navigateToState}
-            title="State"
+            title="error"
           />
         </View>
       </ScrollView>
